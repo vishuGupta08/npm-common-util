@@ -1,4 +1,4 @@
-declare module 'secure-bff' {
+declare module 'secure' {
  
   
     // Define the type of the validateToken function
